@@ -1,2 +1,2 @@
 # Portfolio
-https://marcus-klammt.github.io/Portfolio/index.html
+https://marcus-klammt.github.io/Portfolio/
