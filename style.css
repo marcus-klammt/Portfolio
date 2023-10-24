@@ -1,0 +1,42 @@
+ body {
+         background-color: rgb(32,29, 71);
+       
+  
+  justify-content: center;
+      } 
+      
+      @font-face { font-family: Quicksand_Book; src: url('Quicksand_Book.otf'); } 
+      h1 {
+         font-family: Quicksand_Book
+      }
+
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  0% { border-color: white; }
+}
+
+
+parent {
+    position: fixed;
+    bottom: 0px; 
+    width: 100%; 
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
